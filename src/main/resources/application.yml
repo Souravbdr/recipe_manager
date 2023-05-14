@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri : mongodb+srv://sourav97:LLWERqYK2IPVeyBQ@cluster0.p0rbzp3.mongodb.net/?retryWrites=true&w=majority
+      database : Recipe
